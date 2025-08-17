@@ -1,0 +1,32 @@
+[
+  {
+    "H": "Makarem Ajyad Makkah Hotel",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Superior Double Room",
+    "M": "RO",
+    "P": "778.89",
+    "normalized_room_type": "standard double room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Makarem Ajyad Makkah Hotel",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Superior Double Room",
+    "M": "BB [Non Refundable]",
+    "P": "823.87",
+    "normalized_room_type": "standard double room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Makarem Ajyad Makkah Hotel",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Superior Quadruple Room",
+    "M": "Breakfast Not Included",
+    "P": "920.17",
+    "normalized_room_type": "standard quad room - ro",
+    "normalized_meal": "ro"
+  }
+]

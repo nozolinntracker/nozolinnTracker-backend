@@ -1,0 +1,82 @@
+[
+  {
+    "H": "Elaf Ajyad",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Double Room",
+    "M": "RO",
+    "P": "225.41",
+    "normalized_room_type": "standard double room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Elaf Ajyad",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Double Room",
+    "M": "BB",
+    "P": "300.53",
+    "normalized_room_type": "standard double room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Elaf Ajyad",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Triple Room",
+    "M": "Breakfast Not Included",
+    "P": "236.98",
+    "normalized_room_type": "standard triple room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Elaf Ajyad",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Triple Room",
+    "M": "Bed And Breakfast",
+    "P": "316.02",
+    "normalized_room_type": "standard triple room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Elaf Ajyad",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "Breakfast Not Included",
+    "P": "248.25",
+    "normalized_room_type": "standard quad room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Elaf Ajyad",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "Bed And Breakfast",
+    "P": "327.30",
+    "normalized_room_type": "standard quad room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Elaf Ajyad",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Twin Room",
+    "M": "RO [Non Refundable]",
+    "P": "331.78",
+    "normalized_room_type": "standard room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Elaf Ajyad",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Twin Room",
+    "M": "BB [Non Refundable]",
+    "P": "442.40",
+    "normalized_room_type": "standard double room - bb",
+    "normalized_meal": "bb"
+  }
+]

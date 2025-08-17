@@ -1,0 +1,152 @@
+[
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Twin Room",
+    "M": "RO",
+    "P": "1,080.02",
+    "normalized_room_type": "standard twin room ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Twin Room",
+    "M": "2 X Breakfast",
+    "P": "1,167.59",
+    "flagged_meal": "2 x breakfast",
+    "normalized_meal": "FLAG:2 x breakfast"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Double Room",
+    "M": "RO",
+    "P": "1,115.75",
+    "normalized_room_type": "standard double room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Double Room",
+    "M": "BB",
+    "P": "1,205.84",
+    "normalized_room_type": "standard double room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Double or Single Room",
+    "M": "Bed And Breakfast",
+    "P": "1,271.92",
+    "normalized_room_type": "standard double room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Triple Room",
+    "M": "Bed And Breakfast",
+    "P": "1,439.28",
+    "normalized_room_type": "standard triple room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Triple Room",
+    "M": "Breakfast Not Included",
+    "P": "1,460.52",
+    "normalized_room_type": "standard triple room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Twin Room (Street View)",
+    "M": "Breakfast Not Included",
+    "P": "1,590.59",
+    "normalized_room_type": "standard twin room ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Twin Room (Haram View)",
+    "M": "RO",
+    "P": "1,615.94",
+    "normalized_room_type": "standard twin room (haram view) - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Twin Room (Haram View)",
+    "M": "2 X Breakfast",
+    "P": "1,703.50",
+    "flagged_meal": "2 x breakfast",
+    "normalized_meal": "FLAG:2 x breakfast"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "Breakfast Not Included",
+    "P": "1,634.33",
+    "normalized_room_type": "standard quad room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "Breakfast Included",
+    "P": "1,738.64",
+    "normalized_room_type": "standard quad room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Double Room (Haram View)",
+    "M": "RO",
+    "P": "1,669.19",
+    "normalized_room_type": "standard double room (haram view) - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Double Room (Haram View)",
+    "M": "BB",
+    "P": "1,759.26",
+    "normalized_room_type": "standard double room (haram view) - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "15/08/2025",
+    "R": "Standard Twin Room (with View)",
+    "M": "RO [Non Refundable]",
+    "P": "2,054.99",
+    "normalized_room_type": "standard twin room (haram view) - ro",
+    "normalized_meal": "ro"
+  }
+]

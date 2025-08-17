@@ -1,0 +1,32 @@
+[
+  {
+    "H": "Zaha Al Munawara Hotel",
+    "C": "Madinah",
+    "D": "17/08/2025",
+    "R": "Standard Twin Room",
+    "M": "BB [Non Refundable]",
+    "P": "329.22",
+    "normalized_room_type": "standard twin room (2 single beds) – bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Zaha Al Munawara Hotel",
+    "C": "Madinah",
+    "D": "17/08/2025",
+    "R": "Standard Triple Room",
+    "M": "BB [Non Refundable]",
+    "P": "384.07",
+    "normalized_room_type": "standard triple room – bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Zaha Al Munawara Hotel",
+    "C": "Madinah",
+    "D": "17/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "BB [Non Refundable]",
+    "P": "438.97",
+    "normalized_room_type": "standard quad room – bb",
+    "normalized_meal": "bb"
+  }
+]

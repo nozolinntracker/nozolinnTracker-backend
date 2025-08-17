@@ -1,0 +1,42 @@
+[
+  {
+    "H": "Crowne Plaza Madinah",
+    "C": "Madinah",
+    "D": "15/08/2025",
+    "R": "Standard Double Room",
+    "M": "Breakfast Not Included",
+    "P": "471.43",
+    "normalized_room_type": "standard double room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Crowne Plaza Madinah",
+    "C": "Madinah",
+    "D": "15/08/2025",
+    "R": "Standard Double Room",
+    "M": "Bed And Breakfast",
+    "P": "530.33",
+    "normalized_room_type": "standard double room (1 double bed) – bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Crowne Plaza Madinah",
+    "C": "Madinah",
+    "D": "15/08/2025",
+    "R": "Standard Twin Room",
+    "M": "RO [Non Refundable]",
+    "P": "588.35",
+    "normalized_room_type": "standard double room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Crowne Plaza Madinah",
+    "C": "Madinah",
+    "D": "15/08/2025",
+    "R": "Standard Twin Room",
+    "M": "Breakfast Board",
+    "P": "639.49",
+    "normalized_room_type": "standard twin room (2 single beds) – bb",
+    "normalized_meal": "bb"
+  }
+]

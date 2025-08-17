@@ -1,0 +1,82 @@
+[
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Triple Room",
+    "M": "Breakfast Not Included",
+    "P": "306.76",
+    "normalized_room_type": "standard triple room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Triple Room",
+    "M": "Bed And Breakfast",
+    "P": "384.72",
+    "normalized_room_type": "standard triple room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "Breakfast Not Included",
+    "P": "327.54",
+    "normalized_room_type": "standard quad room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "Bed And Breakfast",
+    "P": "431.50",
+    "normalized_room_type": "standard quad room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Double Room",
+    "M": "Breakfast Not Included",
+    "P": "338.98",
+    "normalized_room_type": "standard double room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Double Room",
+    "M": "Bed And Breakfast",
+    "P": "400.22",
+    "normalized_room_type": "standard double room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Twin Room",
+    "M": "Breakfast Not Included",
+    "P": "349.39",
+    "normalized_room_type": "standard twin room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Twin Room",
+    "M": "Bed And Breakfast",
+    "P": "412.94",
+    "normalized_room_type": "standard twin room - bb",
+    "normalized_meal": "bb"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "H": "Hafawah Suites",
+    "C": "Madinah",
+    "D": "15/08/2025",
+    "R": "2 Bedroom Executive Quadruple Suite",
+    "M": "Breakfast Not Included",
+    "P": "617.90",
+    "normalized_room_type": "executive suite (4 adults) - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Hafawah Suites",
+    "C": "Madinah",
+    "D": "15/08/2025",
+    "R": "Executive Suite",
+    "M": "RO",
+    "P": "630.25",
+    "normalized_room_type": "executive suite (2 adults) - ro",
+    "normalized_meal": "ro"
+  }
+]

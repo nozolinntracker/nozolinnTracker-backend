@@ -1,0 +1,142 @@
+[
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Premium Double Room",
+    "M": "Bed And Breakfast",
+    "P": "435.88",
+    "normalized_room_type": "standard double room (1 double bed) – bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Double Room",
+    "M": "Breakfast Not Included",
+    "P": "354.75",
+    "normalized_room_type": "standard double room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Double Room",
+    "M": "Bed & Breakfast",
+    "P": "483.76",
+    "normalized_room_type": "standard double room (1 double bed) – bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Premium Twin Room",
+    "M": "Breakfast For 2,Free Self Parking",
+    "P": "705.74",
+    "flagged_meal": "breakfast for 2,free self parking",
+    "normalized_meal": "FLAG:breakfast for 2,free self parking"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Deluxe Double Room",
+    "M": "BB",
+    "P": "627.19",
+    "normalized_room_type": "standard double room (1 double bed) – bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Double or Single Room",
+    "M": "RO [Non Refundable]",
+    "P": "463.04",
+    "normalized_room_type": "standard double room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Double or Single Room",
+    "M": "BB [Non Refundable]",
+    "P": "586.47",
+    "normalized_room_type": "standard double room (1 double bed) – bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Premium Triple Room",
+    "M": "Breakfast Not Included",
+    "P": "585.92",
+    "normalized_room_type": "standard triple room – ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Premium Triple Room",
+    "M": "Breakfast For 2",
+    "P": "759.95",
+    "flagged_meal": "breakfast for 2",
+    "normalized_meal": "FLAG:breakfast for 2"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Premium Triple Room",
+    "M": "Breakfast For 2,Free Self Parking",
+    "P": "814.53",
+    "flagged_meal": "breakfast for 2,free self parking",
+    "normalized_meal": "FLAG:breakfast for 2,free self parking"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Premium Quadruple Room",
+    "M": "Breakfast Not Included",
+    "P": "827.80",
+    "normalized_room_type": "standard quad room – ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Premium Quadruple Room",
+    "M": "Breakfast For 2",
+    "P": "1,001.83",
+    "flagged_meal": "breakfast for 2",
+    "normalized_meal": "FLAG:breakfast for 2"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Premium Quadruple Room",
+    "M": "Breakfast For 2,Free Self Parking",
+    "P": "1,068.35",
+    "flagged_meal": "breakfast for 2,free self parking",
+    "normalized_meal": "FLAG:breakfast for 2,free self parking"
+  },
+  {
+    "H": "New Madinah Hotel",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Corner Quadruple Suite",
+    "M": "RO",
+    "P": "1,723.26",
+    "normalized_room_type": "standard quad room – ro",
+    "normalized_meal": "ro"
+  }
+]

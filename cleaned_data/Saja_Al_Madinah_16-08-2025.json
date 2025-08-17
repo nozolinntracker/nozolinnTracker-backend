@@ -1,0 +1,112 @@
+[
+  {
+    "H": "Saja Al Madinah",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Double Room",
+    "M": "Breakfast Not Included",
+    "P": "425.37",
+    "normalized_room_type": "standard double room – ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Saja Al Madinah",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Double Room",
+    "M": "Bed And Breakfast",
+    "P": "553.52",
+    "normalized_room_type": "standard double room – bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Saja Al Madinah",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Triple Room",
+    "M": "Bed And Breakfast",
+    "P": "611.79",
+    "normalized_room_type": "standard triple room – bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Saja Al Madinah",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "Breakfast Not Included",
+    "P": "437.00",
+    "normalized_room_type": "standard quad room – ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Saja Al Madinah",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "Bed And Breakfast",
+    "P": "654.32",
+    "normalized_room_type": "standard quad room – bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Saja Al Madinah",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Twin Room",
+    "M": "RO",
+    "P": "590.31",
+    "normalized_room_type": "standard twin room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Saja Al Madinah",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Twin Room",
+    "M": "BB",
+    "P": "707.89",
+    "normalized_room_type": "standard twin room – bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Saja Al Madinah",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Twin Room (City View)",
+    "M": "RO [Non Refundable]",
+    "P": "883.39",
+    "normalized_room_type": "standard twin room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Saja Al Madinah",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Twin Room (City View)",
+    "M": "BB [Non Refundable]",
+    "P": "1,011.49",
+    "normalized_room_type": "standard twin room – bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Saja Al Madinah",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Double Room (Mountain View)",
+    "M": "Breakfast Not Included",
+    "P": "1,013.45",
+    "normalized_room_type": "standard double room – ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Saja Al Madinah",
+    "C": "Madinah",
+    "D": "16/08/2025",
+    "R": "Standard Double Room (Mountain View)",
+    "M": "Breakfast Included",
+    "P": "1,149.06",
+    "normalized_room_type": "standard double room – bb",
+    "normalized_meal": "bb"
+  }
+]

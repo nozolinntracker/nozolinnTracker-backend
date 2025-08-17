@@ -1,0 +1,112 @@
+[
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Triple Room",
+    "M": "Breakfast Not Included",
+    "P": "303.59",
+    "normalized_room_type": "standard triple room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Triple Room",
+    "M": "Bed And Breakfast",
+    "P": "380.75",
+    "normalized_room_type": "standard triple room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "Breakfast Not Included",
+    "P": "324.13",
+    "normalized_room_type": "standard quad room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "Bed And Breakfast",
+    "P": "427.01",
+    "normalized_room_type": "standard quad room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Double Room",
+    "M": "Breakfast Not Included",
+    "P": "335.49",
+    "normalized_room_type": "standard double room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Double Room",
+    "M": "Bed And Breakfast",
+    "P": "400.22",
+    "normalized_room_type": "standard double room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Twin Room",
+    "M": "Breakfast Not Included",
+    "P": "349.39",
+    "normalized_room_type": "standard twin room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Twin Room",
+    "M": "Bed And Breakfast",
+    "P": "412.94",
+    "normalized_room_type": "standard twin room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Triple Room (City View)",
+    "M": "Breakfast Not Included",
+    "P": "497.94",
+    "normalized_room_type": "standard triple room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Triple Room (City View)",
+    "M": "Breakfast Included",
+    "P": "642.60",
+    "normalized_room_type": "standard triple room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Al Ebaa Hotel",
+    "C": "Makkah",
+    "D": "17/08/2025",
+    "R": "Standard Quadruple Room (Mountain View)",
+    "M": "Breakfast Not Included",
+    "P": "526.31",
+    "normalized_room_type": "standard quad room - ro",
+    "normalized_meal": "ro"
+  }
+]

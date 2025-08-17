@@ -1,0 +1,42 @@
+[
+  {
+    "H": "Emaar Legend",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "Breakfast Not Included",
+    "P": "74.95",
+    "normalized_room_type": "standard quad room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Emaar Legend",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Triple Room",
+    "M": "Breakfast Not Included",
+    "P": "74.95",
+    "normalized_room_type": "standard triple room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Emaar Legend",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Double Room",
+    "M": "RO [Non Refundable]",
+    "P": "89.90",
+    "normalized_room_type": "standard double room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Emaar Legend",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Double or Twin Room",
+    "M": "Breakfast Not Included",
+    "P": "74.95",
+    "normalized_meal": "ro",
+    "normalized_room_type": "standard twin room - ro"
+  }
+]

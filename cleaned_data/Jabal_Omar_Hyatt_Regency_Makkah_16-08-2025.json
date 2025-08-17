@@ -1,0 +1,192 @@
+[
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Twin Room",
+    "M": "RO",
+    "P": "819.06",
+    "normalized_room_type": "standard twin room ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Twin Room",
+    "M": "2 X Breakfast",
+    "P": "906.81",
+    "flagged_meal": "2 x breakfast",
+    "normalized_meal": "FLAG:2 x breakfast"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Triple Room",
+    "M": "RO [Non Refundable]",
+    "P": "951.33",
+    "normalized_room_type": "standard triple room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Triple Room",
+    "M": "BB [Non Refundable]",
+    "P": "1,032.85",
+    "normalized_room_type": "standard triple room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Triple Room (City View)",
+    "M": "Bed And Breakfast",
+    "P": "1,031.97",
+    "normalized_room_type": "standard triple room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "RO [Non Refundable]",
+    "P": "1,114.42",
+    "normalized_room_type": "standard quad room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Quadruple Room",
+    "M": "BB [Non Refundable]",
+    "P": "1,195.95",
+    "normalized_room_type": "standard quad room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Double or Single Room",
+    "M": "Bed And Breakfast",
+    "P": "1,138.03",
+    "normalized_room_type": "standard double room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Triple Room (Haram View)",
+    "M": "Bed And Breakfast",
+    "P": "1,169.48",
+    "normalized_room_type": "standard triple room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Quadruple Room (City View)",
+    "M": "Bed And Breakfast",
+    "P": "1,176.14",
+    "normalized_room_type": "standard quad room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Twin Room (Haram View)",
+    "M": "RO",
+    "P": "1,315.13",
+    "normalized_room_type": "standard twin room (haram view) - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Twin Room (Haram View)",
+    "M": "2 X Breakfast",
+    "P": "1,402.92",
+    "flagged_meal": "2 x breakfast",
+    "normalized_meal": "FLAG:2 x breakfast"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Double Room (Haram View)",
+    "M": "RO",
+    "P": "1,370.07",
+    "normalized_room_type": "standard double room (haram view) - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Double Room (Haram View)",
+    "M": "BB",
+    "P": "1,460.61",
+    "normalized_room_type": "standard double room (haram view) - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Twin Room (with View)",
+    "M": "RO [Non Refundable]",
+    "P": "1,752.36",
+    "normalized_room_type": "standard twin room (haram view) - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Triple Suite",
+    "M": "RO [Non Refundable]",
+    "P": "1,821.12",
+    "normalized_room_type": "standard triple room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Triple Suite",
+    "M": "BB [Non Refundable]",
+    "P": "1,902.65",
+    "normalized_room_type": "standard triple room - bb",
+    "normalized_meal": "bb"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Quadruple Suite",
+    "M": "RO [Non Refundable]",
+    "P": "1,984.18",
+    "normalized_room_type": "standard quad room - ro",
+    "normalized_meal": "ro"
+  },
+  {
+    "H": "Jabal Omar Hyatt Regency Makkah",
+    "C": "Makkah",
+    "D": "16/08/2025",
+    "R": "Standard Double or Twin Room",
+    "M": "RO [Non Refundable]",
+    "P": "788.27",
+    "normalized_meal": "ro",
+    "normalized_room_type": "standard double room - ro"
+  }
+]
